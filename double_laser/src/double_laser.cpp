@@ -82,7 +82,7 @@ double_laser::double_laser():
 {
     laser_count++;
     // downsampling
-    if(laser_count<(last_laser+10))
+    if(laser_count<(last_laser+2))
         return;
     last_laser=laser_count;
    // tf::TransformListener  listener_;
