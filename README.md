@@ -1,4 +1,4 @@
-- This project is used to learing the slam.
+# This project is used to learing the slam.
 ## double_laser
 本实验采用了两个2D激光，一个用来进行定位，一个用来进行三维重建。其中水平
 放置的激光为lms1xx,可以采用gmapping、karto等2D激光算法来进行见图，本实
