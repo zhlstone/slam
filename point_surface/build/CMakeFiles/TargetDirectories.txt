@@ -1,0 +1,7 @@
+/home/zl/projects/point_surface/build/CMakeFiles/install.dir
+/home/zl/projects/point_surface/build/CMakeFiles/list_install_components.dir
+/home/zl/projects/point_surface/build/CMakeFiles/rebuild_cache.dir
+/home/zl/projects/point_surface/build/CMakeFiles/point_surface.dir
+/home/zl/projects/point_surface/build/CMakeFiles/edit_cache.dir
+/home/zl/projects/point_surface/build/CMakeFiles/install/strip.dir
+/home/zl/projects/point_surface/build/CMakeFiles/install/local.dir
